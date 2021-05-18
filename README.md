@@ -12,7 +12,7 @@ This will only work with Chromium based Browsers.
 - Go to `chrome://extensions/`
 - Enable Developer mode
 - Load unpacked and select the destroy folder from the unzipped project.
-- Activate the extension by toggling the button and reload antoher tab.
+- Activate the extension by toggling the button and reload another tab.
 - Suggestion: Visit Facebook/ Twitter and try sending a message to a friend of yours, good luck:)
 
 ## But Why?
@@ -38,6 +38,7 @@ Dilemma is focused on how virtually every design aspect of big social
 media platforms is unethical, as it deceives the user, but it leaves
 untouched some of the basic principles of UX design that propagate
 harmful patterns.
+
 While User Experience Design started out as a niche industry in
 Silicon Valley’s early startup scene, it has now grown to a force that
 architects and governs our digital lives. This results in problems that
