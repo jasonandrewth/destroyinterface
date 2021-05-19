@@ -12,7 +12,8 @@ This will only work with Chromium based Browsers.
 - Go to `chrome://extensions/`
 - Enable Developer mode
 - Load unpacked and select the destroy folder from the unzipped project.
-- Activate the extension by toggling the button and reload another tab.
+- Activate the extension by toggling the button.
+- Visit a new page and enable the extension from the dropdown
 - Suggestion: Visit Facebook/ Twitter and try sending a message to a friend of yours, good luck:)
 
 ## But Why?

@@ -5,13 +5,30 @@
     <style>
       #popup {
         width: 300px;
-        height: 200px;
+        height: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      #clickme {
+        background-color: #850111;
+        border: none;
+        color: white;
+        padding: 15px 32px;
         text-align: center;
-        line-height: 200px;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        font-weight: 700;
       }
     </style>
   </head>
   <body>
-    <div id="popup">Hello Chrome Extensions</div>
+    <div id="popup">
+      <button id="clickme">DESTROY</button>
+    </div>
+    <script type="text/javascript" src="popup.js"></script>
   </body>
 </html>

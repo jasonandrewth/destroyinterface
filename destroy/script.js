@@ -1,5 +1,5 @@
-const els = document.getElementsByTagName("*");
-var arr = Array.from(els);
+const b889tomz = document.getElementsByTagName("*");
+var arr = Array.from(b889tomz);
 
 arr.forEach((element) => {
   //const elementsChildren = thing.childNodes
